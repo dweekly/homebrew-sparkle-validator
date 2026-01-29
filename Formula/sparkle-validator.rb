@@ -1,8 +1,8 @@
 class SparkleValidator < Formula
   desc "Validate Sparkle appcast.xml feeds for macOS app updates"
   homepage "https://sparklevalidator.com"
-  url "https://registry.npmjs.org/sparkle-validator/-/sparkle-validator-1.0.0.tgz"
-  sha256 "514404e0129b50fbdd9b35f307e9fb13219b3db315c6ea6abbd78f96e47b45b7"
+  url "https://registry.npmjs.org/sparkle-validator/-/sparkle-validator-1.1.0.tgz"
+  sha256 "c9ae049a2e3678457f811c78053ede28f3f9268a49971c1c3f76be0d4947b5f6"
   license "MIT"
 
   depends_on "node"
